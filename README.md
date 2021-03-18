@@ -1,9 +1,9 @@
 <h2> Hi, I'm Achintya! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="75"> </h2>
 
 
-<figure ><br>
-  <figcaption align='right'>Getting ready to take over the WORLD..🌎.</figcaption>
-  <img align='right' src="https://media.giphy.com/media/3o85xqzprB9DhZmVk4/giphy.gif" alt="Mission and Vision" width="200"/><br><br><br><br><br><br>
+<figure >
+  <img align='right' src="https://media.giphy.com/media/3o85xqzprB9DhZmVk4/giphy.gif" alt="Mission and Vision" width="200"/>
+  <figcaption align='right'>Getting ready to take over the WORLD..🌎.</figcaption><br><br><br><br><br><br>
 </figure><br><br>
 
 
