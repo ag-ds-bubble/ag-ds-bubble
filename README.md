@@ -3,7 +3,7 @@
 
 <figure >
   <figcaption>Getting ready to take over the WORLD..🌎.</figcaption>
-  <img align='centre' src="https://media.giphy.com/media/3o85xqzprB9DhZmVk4/giphy.gif" alt="Mission and Vision" width="400"/><br><br>
+  <img align='centre' src="https://media.giphy.com/media/3o85xqzprB9DhZmVk4/giphy.gif" alt="Mission and Vision" width="400"/><br>
 </figure><br><br>
 
 
