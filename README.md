@@ -1,11 +1,9 @@
 <h2> Hi, I'm Achintya! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="75"> </h2>
 
-
 <figure >
   <img align='centre' src="https://media.giphy.com/media/3o85xqzprB9DhZmVk4/giphy.gif" alt="Mission and Vision" width="400"/><br><br><br><br><br><br>
   <figcaption>Getting ready to take over the WORLD..🌎.</figcaption>
-</figure><br><br>
-
+</figure><br>
 ****
 A Back-Packing junkie, who graduated in Electrical Engineering, and is now working in Data Science (What people like to call *Artificial Intelligence*🤩) as a, guess what, Data Scientist..<br><br>
 
@@ -38,5 +36,5 @@ A Back-Packing junkie, who graduated in Electrical Engineering, and is now worki
 ****
 <h2>📝 My Blog </h2>
 <a href="https://ag-ds-bubble.medium.com/">
-  <img align="left" alt="Achintya's Email" src="https://media.giphy.com/media/f8tyBiJNE6ovitdu1Q/giphy.gif"  width="80"/>
+  <img align="left" alt="Achintya's Email" src="https://media.giphy.com/media/f8tyBiJNE6ovitdu1Q/giphy.gif"  width="150"/>
 </a>
