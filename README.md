@@ -9,7 +9,7 @@
 
 A Back-Packing junkie, who graduated in Electrical Engineering, and is now working in Data Science (What people like to call *Artificial Intelligence*🤩) as a, guess what, Data Scientist..<br>
 
-<h2> 📑 My Works. </h2>
+<h2> <img src="https://img.icons8.com/dusk/64/000000/work-light.png" width="20"/> My Works. </h2>
 
 - [SWTloc : Stroke Width Transform Library](https://github.com/ag-ds-bubble/swtloc)
 [<img align='left' src="swtloc.png" width="125">](https://github.com/ag-ds-bubble/swtloc)<br><br><br>
