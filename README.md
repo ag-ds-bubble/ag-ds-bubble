@@ -2,8 +2,8 @@
 
 
 <figure >
-  <img align='right' src="https://media.giphy.com/media/3o85xqzprB9DhZmVk4/giphy.gif" alt="Mission and Vision" width="200"/>
-  <figcaption align='right'>Getting ready to take over the WORLD..🌎.</figcaption><br><br><br><br><br><br>
+  <img align='centre' src="https://media.giphy.com/media/3o85xqzprB9DhZmVk4/giphy.gif" alt="Mission and Vision" width="400"/><br><br><br><br><br><br>
+  <figcaption>Getting ready to take over the WORLD..🌎.</figcaption>
 </figure><br><br>
 
 
