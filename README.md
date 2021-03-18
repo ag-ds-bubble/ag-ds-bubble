@@ -28,10 +28,15 @@ A Back-Packing junkie, who graduated in Electrical Engineering, and is now worki
 
 <a href="mailto:achintyag96@gmail.com">
   <img align="left" alt="Achintya's Email" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/>
-</a><br>
+</a>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ****
-<h2> 📝 My Blog </h2>
+<h2>📝 My Blog </h2>
 <a href="https://ag-ds-bubble.medium.com/">
   <img align="left" alt="Achintya's Email" src="https://media.giphy.com/media/f8tyBiJNE6ovitdu1Q/giphy.gif"  width="80"/>
 </a>
