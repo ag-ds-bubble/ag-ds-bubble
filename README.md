@@ -22,11 +22,7 @@ A Back-Packing junkie, who graduated in Electrical Engineering, and is now worki
 ****
 <h2> 📬 Connect </h2>
 
-<a href="https://www.linkedin.com/in/guptaachintya/">
-  <img align="left" alt="Achintya's LinkedIn" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
-</a>
-
-<a href="mailto:achintyag96@gmail.com">
+<a href="mailto:ag.ds.bubble@gmail.com">
   <img align="left" alt="Achintya's Email" src="https://img.icons8.com/clouds/100/000000/apple-mail.png"/>
 </a>
 <br>
