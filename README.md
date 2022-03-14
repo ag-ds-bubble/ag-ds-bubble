@@ -1,4 +1,4 @@
-<h2> Hi, I'm Achintya! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="75"> </h2>
+<h2> Hi there! <img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" width="75"> </h2>
 
 <figure >
   <figcaption>Automaton getting ready to take over the WORLD..🌎.</figcaption>
